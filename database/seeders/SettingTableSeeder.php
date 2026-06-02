@@ -16,8 +16,8 @@ class SettingTableSeeder extends Seeder
     {
         DB::table('setting')->insert([
             'id_setting' => 1,
-            'nama_perusahaan' => 'Toko Tanjung',
-            'alamat' => 'Jl. Berbah-Kalasan, Dusun Gendingsari, Tirtomartani, Kalasan, Jrebesan, Kalitirto, Kec. Berbah, Kabupaten Sleman.',
+            'nama_perusahaan' => 'Tech Commerce',
+            'alamat' => '',
             'telepon' => '081234779987',
             'tipe_nota' => 1, // kecil
             'diskon' => 5,

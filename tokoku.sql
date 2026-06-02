@@ -1600,7 +1600,7 @@ CREATE TABLE `setting` (
 --
 
 INSERT INTO `setting` (`id_setting`, `nama_perusahaan`, `alamat`, `telepon`, `tipe_nota`, `diskon`, `path_logo`, `path_kartu_member`, `created_at`, `updated_at`) VALUES
-(1, 'Toko Tanjung', 'Jl. Berbah-Kalasan, Dusun Gendingsari, Tirtomartani, Kalasan, Jrebesan, Kalitirto, Kec. Berbah, Kabupaten Sleman.', '081234779987', 1, 5, '/img/logo.png', '/img/logo-2025-07-08205915.png', NULL, '2025-07-08 13:59:15');
+(1, 'Tech Commerce', 'Jl. Berbah-Kalasan, Dusun Gendingsari, Tirtomartani, Kalasan, Jrebesan, Kalitirto, Kec. Berbah, Kabupaten Sleman.', '081234779987', 1, 5, '/img/logo.png', '/img/logo-2025-07-08205915.png', NULL, '2025-07-08 13:59:15');
 
 -- --------------------------------------------------------
 
