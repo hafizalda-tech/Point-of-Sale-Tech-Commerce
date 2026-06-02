@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/hafizalda-tech" target="_blank">
-        <img src="public/img/logo.png" width="120">
+        <img src="public/img/logotech.png" width="120">
     </a>
 </p>
 
